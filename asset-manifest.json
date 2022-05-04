@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/raivis-work/static/css/main.073c9b0a.css",
-    "main.js": "/raivis-work/static/js/main.af0fb035.js",
+    "main.js": "/raivis-work/static/js/main.41dcb512.js",
     "static/js/787.519c5e65.chunk.js": "/raivis-work/static/js/787.519c5e65.chunk.js",
     "static/media/logo.svg": "/raivis-work/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/raivis-work/index.html",
     "main.073c9b0a.css.map": "/raivis-work/static/css/main.073c9b0a.css.map",
-    "main.af0fb035.js.map": "/raivis-work/static/js/main.af0fb035.js.map",
+    "main.41dcb512.js.map": "/raivis-work/static/js/main.41dcb512.js.map",
     "787.519c5e65.chunk.js.map": "/raivis-work/static/js/787.519c5e65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.af0fb035.js"
+    "static/js/main.41dcb512.js"
   ]
 }
